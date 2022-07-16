@@ -213,7 +213,7 @@ select {
 
 @media (min-width: 80em){
   .main{
-    padding: 14em;
+    padding: 5em 14em;
   }
   .btn{
     margin-top: 70px;
@@ -222,7 +222,7 @@ select {
 
 @media (min-width: 90em){
   .main{
-    padding: 17em;
+    padding: 5em 17em;
   }
   .btn{
     margin-top: 80px;
